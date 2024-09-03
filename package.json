@@ -20,7 +20,9 @@
     "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^6.26.1",
     "react-scroll-parallax": "^3.4.5",
-    "sort-by": "^1.2.0",
+    "react-tabtab": "^2.0.0",
+    "sort-by": "^0.0.2",
+    "styled-components": "^4.0.0",
     "swiper": "^11.1.9"
   },
   "devDependencies": {
